@@ -1,0 +1,21 @@
+A model Geminid meteoroid stream is considered. A 
+fine-structured incident flux density profile and a profile 
+for the mass index S obtained from observations are used to 
+fit the model. The profile has two maxima of
+very characteristic shape, and their origin is clearly 
+visible from the model: branches of the stream have been 
+formed due to differences in orbital parameters of 
+particles ejected from the cometary nucleus before and 
+after perihelion. So the structure of the Geminid shower 
+swows the cometary origin of the stream. 
+
+A preliminary estimations of the spatial density 
+distribution of meteoroids far from the Earth orbit and
+the stream mass are given. Influences of age, dust 
+production rate, ejection velocity distribution are 
+discussed. The orbits of the Geminid stream as well as 
+the one of the asteroid (3200) Phaethon (the Geminid's
+parent body) are located far inside the Jupiter's orbit.
+The most realistic mechanism for the transformation of
+initial comet's orbit to Geminid-type orbit is the reactive 
+drag. The Geminid's structure agrees with this theory.
